@@ -1,0 +1,190 @@
+.dash_container {
+    width: 80%;
+    padding: 50px;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+.db_panel {
+    float: left;
+    width: 30%;
+    border: 5px #F18240 solid;
+    border-radius: 10px;
+    padding: 18px;
+}
+.db_pan{
+    float: right;
+    width: 60%;
+    background-color:#F18240;
+    border-radius: 10px;
+    padding: 18px;
+    height:max-content;
+}
+#ds_profile {
+    width: 150px;
+    border-radius: 5px;
+    margin: 20px 10px 0 20px;
+
+}
+.ds_mini_btn {
+    color: white;
+    padding: 5px 10px;
+    font-size: 12px;
+    float: left;
+    color: white;
+    border: solid #0071CE;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border-radius: 3px;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    background-color: #0071CE;
+}
+.ds_mini_btn img {
+    width: 12px;
+}
+.side_menu {
+    text-align: center;
+    border: solid black;
+    background-color: #F18240;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.side_menu:hover {
+    background-color: black;
+    color: white;
+}
+.ds_mini_btn:hover {
+    background-color: #0071CE;
+    color: white;
+}
+.dash_greeting {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.edit_links {
+    color: #0071CE;
+    float:right;
+    font-weight: bold;
+}
+.db_pan fieldset {
+    border: white solid 5px;
+    border-radius: 10px;
+}
+a {
+    text-decoration: none;
+}
+.dash_container {
+    width: 80%;
+    padding: 50px;
+    margin: auto;
+}
+.db_panel {
+    float: left;
+    width: 30%;
+    border: 5px #F18240 solid;
+    border-radius: 10px;
+    padding: 18px;
+}
+.db_pan{
+    float: right;
+    width: 60%;
+    background-color:#F18240;
+    border-radius: 10px;
+    padding: 18px;
+    height:max-content;
+}
+#ds_profile {
+    width: 150px;
+    border-radius: 5px;
+    margin: 20px 10px 0 20px;
+
+}
+.ds_mini_btn {
+    color: white;
+    padding: 5px 10px;
+    font-size: 12px;
+    float: left;
+    color: white;
+    border: solid #0071CE;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border-radius: 3px;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    background-color: #0071CE;
+}
+
+.side_menu {
+    text-align: center;
+    border: solid black;
+    background-color: #F18240;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+.side_menu:hover {
+    background-color: black;
+    color: white;
+}
+.ds_mini_btn:hover {
+    background-color: #0071CE;
+    color: white;
+}
+.dash_greeting {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.edit_links {
+    color: #0071CE;
+    float:right;
+    font-weight: bold;
+}
+.db_pan fieldset {
+    border: white solid 5px;
+    border-radius: 10px;
+}
+.txt {
+    padding: 10px;
+    width: 80%;
+    border: #0071CE solid 2px;
+    border-radius: 5px;
+}
+.li {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.dash_btn {
+    padding: 10px;
+    margin-top: 20px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: #0071CE solid 2px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: #0071CE;
+
+}
+.dash_btn:hover {
+    background-color: black;
+    border-color: black;
+}
+.ds_cb {
+    display: inline;
+}
+#dash_success {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+    color: #0071CE;
+    display: none;
+}
+
+/* Student name: D.D.K.S. Dias
+Student ID: IT21220760
+Module: IWT (1st Yr: 2nd Sem: Final Assignment: 2022) */

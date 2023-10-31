@@ -1,0 +1,174 @@
+body {
+  background-color: #fff;
+  color: #4A4A4A;
+  font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.p {
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+.h1 {
+  font-family: 'Crete Round', serif;
+  font-weight: bold;
+  color: #4A4A4A;
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+.h2 {
+  font-weight: 300;
+  color: #4A4A4A;
+  font-size: 55px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.h3 {
+  font-size: 30px;
+  color: #4A4A4A;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.h4 {
+  font-size: 24px;
+  color: #4A4A4A;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+h5 {
+  font-size: 15px;
+  color: #4A4A4A;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+a {
+  text-decoration: none;
+  color: #4A4A4A;
+}
+a:hover {
+  color: #0071CE;
+}
+strong {
+  font-weight: bold;
+}
+small {
+  font-size: 13px;
+  color: #777;
+  font-style: italic;
+}
+.clear {
+  clear: both;
+}
+.wrapper {
+  margin: 0 auto;
+  padding: 0 10px;
+  width: 940px;
+}
+
+#hero-image {
+  height: 580px;
+  padding-top: 1px;
+  background: #e8eced url('../images/sld2.png') no-repeat center;
+}
+#hero-image h2 {
+  margin: 180px 0 40px 0;
+}
+.button-1 {
+  display: block;
+  text-align: center;
+  background: #444;
+  border-radius: 3px;
+  color: #fff;
+  width: 180px;
+  height: 50px;
+  font-size: 20px;
+  line-height: 50px;
+  margin: 0 auto;
+}
+.button-1:hover {
+  background-color: #F18240;
+  color: #fff;
+}
+
+#primary-content {
+  background-color: #f8fafa;
+  padding: 60px 0;
+  text-align: center;
+}
+#primary-content h3 {
+  display: block;
+  margin: 0 auto 20px auto;
+  width: 400px;
+  border-bottom: 1px solid #0071CE;
+  padding: 0 0 20px 0;
+}
+#primary-content a img {
+  margin: 20px 0;
+}
+
+#secondary-content {
+  padding: 60px 0;
+  text-align: center;
+}
+#secondary-content article {
+  width: 460px;
+  height: 270px;
+  float: left;
+  background-color: #f5f5f5;
+}
+#secondary-content article:first-child {
+  margin-right: 20px;
+}
+#secondary-content article .overlay {
+  background: rgba(255, 255, 255, .95);
+  height: 230px;
+  width: 190px;
+  padding: 20px;
+}
+article h4 {
+  border-bottom: 1px solid #0071CE;
+  padding-bottom: 20px;
+}
+.more-link {
+  border: 1px solid #0071CE;
+  color: #0071CE;
+  padding: 6px 20px;
+  border-radius: 3px;
+}
+.more-link:hover {
+  background-color: #0071CE;
+  color: #fff;
+}
+
+#cta {
+  padding: 60px 0;
+  text-align: center;
+}
+#cta h3 {
+  display: block;
+  margin: 0 auto 20px auto;
+  width: 400px;
+  border-bottom: 1px solid #0071CE;
+  padding: 0 0 20px 0;
+}
+.button-2 {
+  display: block;
+  margin: 0 auto;
+  border: 2px solid #0071CE;
+  color: #0071CE;
+  border-radius: 3px;
+  width: 180px;
+  height: 50px;
+  font-size: 20px;
+  line-height: 50px;
+}
+.button-2:hover {
+  background-color: #0071CE;
+  color: #fff;
+}
+
+/* 	Student name: Thathsara S.M.K. 
+	Student ID: IT21219566 
+	Module: IWT (1st Yr: 2nd Sem: Final Assignment: 2022) */

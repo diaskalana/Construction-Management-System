@@ -1,0 +1,167 @@
+.test_main {
+    height: 500px;
+    background-image: url(../images/test_bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    font-size: 15px;
+}
+.test_main h2 {
+    margin-top: 180px;
+    font-size: 30px;
+}
+.test_main p {
+    font-size: 17px;
+    line-height: 1.5;
+}        
+.test_main span {
+    font-size: 13px;
+    line-height: 1.5;
+}
+.test_intro {
+    padding: 0 350px;
+}
+.test_img {
+    width: 150px;
+    padding: 2px;
+    border: #F18240 solid;
+    background-color: #F18240;
+    border-radius: 5px;
+}
+.container-left {
+    line-height: 1;
+    font-size: small;
+    padding-left: 80px;
+    margin-right: -80px;
+    padding-top: 20px;
+}
+.container-right h2 {
+    margin-top: 0px;
+    padding-top: 5px;
+}
+.int_container fieldset {
+    border: #F18240 solid 5px;
+    border-radius: 10px;
+} 
+.test_filled {
+    color: white;
+}
+.test_filled fieldset {
+    border: #F18240 solid 5px;
+    border-radius: 10px;
+    background-color: #F18240;
+}
+/* Shape devider */
+
+.custom-shape-divider-top-1653088769 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1653088769 svg {
+    position: relative;
+    display: block;
+    width: calc(176% + 1.3px);
+    height: 354px;
+}
+
+.custom-shape-divider-top-1653088769 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/* Shape devider */
+
+.test_sd {
+    position: relative;
+    background-color: #F18240;
+    padding-top: 200px;
+    color: white;
+    padding-bottom: 150px;
+}
+.test_sd .test_filled fieldset {
+    border: white solid 5px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+}
+.test_sd fieldset {
+    border: white solid 5px;
+    border-radius: 10px;
+}
+#test_reviews input{
+    border: #4a4a4a7e solid;
+    padding: 15px;
+}
+#test_reviews input{
+    border: #4a4a4a7e solid;
+    width: 67%;
+    display: block;
+    border-radius: 5px;
+    padding: 15px;
+    margin: auto;
+}
+#test_reviews textarea {
+    border: #4a4a4a7e solid;
+    width: 67%;
+    display: block;
+    border-radius: 5px;
+    padding: 15px;
+    resize: none;
+    margin: auto;
+
+}
+#test_reviews h4 {
+    padding-left: 110px;
+}
+#test_reviews {
+    display: none;
+    text-align: left;
+}
+
+.test_review_inline {
+    text-align: center;
+    margin: auto;
+    padding-left: 0;
+}
+.test_submit {
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+    border: white solid 5px;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+}
+#test_greeting {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.rev_button {
+    padding: 10px 15px;
+    display: inline;
+    border-radius: 3px;
+    color: black;
+    background-color: rgba(255, 255, 255, 0);
+    border: 3px black solid;
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.rev_button:hover {
+    background-color: black;
+    color: white;
+}
+
+/* Student name: D.D.K.S. Dias
+Student ID: IT21220760
+Module: IWT (1st Yr: 2nd Sem: Final Assignment: 2022) */

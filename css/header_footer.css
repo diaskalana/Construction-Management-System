@@ -1,0 +1,207 @@
+html {
+    scroll-behavior: smooth;
+  }
+body {
+    margin: 0px ;
+    font-family: Helvetica, sans-serif;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+#header button {
+    border-radius: 3px;
+    border-color: #F18240;
+    font-family: Helvetica, sans-serif;
+}
+#header, #footer {
+    width: 80%;
+    margin: auto;
+}
+.top_bar {
+    border-bottom: solid 1px #4a4a4a7e;
+    padding: 15px 0;
+    overflow: hidden;
+    color: black;
+}
+.top_links {
+    display: block;
+    float: left;
+    margin: 0 10px ;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    border: solid #0071CE ;
+    border-radius: 3px;
+    transition: 0.3s;
+}
+.top_links:hover {
+    background-color:#0071CE ;
+    color: white;
+}
+.top_links img {
+    display: inline;
+    width: 16px;
+    vertical-align: middle;
+}
+.top_contact {
+    display: block;
+    float: left;
+    padding: 10px;
+    margin: 0 10px;
+    background-color: #F18240;
+    color: white;
+}
+.search_container {
+    padding: 0px;
+    float: right;
+    margin-right: 10px;
+}
+#top_search {
+    padding: 10px ;
+    border: solid #4a4a4a7e;
+    border-radius: 3px;
+    transition: 0.3s;
+}
+#top_search:focus {
+    border: solid;
+    background-color: #4a4a4a2b;
+    color: black;
+}
+.search_container button {
+    padding: 10px ;
+    background-color: #F18240;
+    color: white;
+}
+.main_nav {
+    padding: 10px;
+}
+.logo {
+    display: inline;
+    float: left;
+}
+#main_nav {
+    float: right;
+}
+.nav_links {
+    display: block;
+    float: left;
+    margin: 0 10px ;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    transition: 0.3s;
+}
+.nav_links:hover {
+    background-color: #4a4a4a7e;
+    border-radius: 3px;
+}
+
+#demo {
+    padding: 10px 15px;
+    background-color: #F18240;
+    color: white;
+}
+
+#footer {
+    font-size: small;
+    margin-top: 20px;
+}
+#footer td {
+    vertical-align:top;
+}
+.social_icons, .pay_icons, .app_icons {
+    display: inline;
+    width: 20px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+#footer button {
+    border-radius: 3px;
+    border-color: #F18240;
+    margin: 10px 10px 0 0;
+}
+#fsec2 h3,h4 {
+    display: inline;
+    line-height: 1.5;
+}
+#fsec2 h3 {
+    color: #F18240;
+}
+
+.pay_icons {
+    width: 40px
+}
+.pay_promo {
+    margin-bottom: 10px;
+}
+#fsec3 {
+    width: 150px;
+    padding-left: 20px;
+}
+#fsec3 h4{
+    padding: 0px 8px;
+}
+#fsec2 {
+    width: 400px;
+}
+#fsec1 {
+    width: 280px;
+}
+#fsec4 {
+    border: solid 2px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 10px;
+}
+.footer_links {
+    display: block;
+    padding: 8px 8px;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    transition: 0.3s;
+}
+.footer_links:hover {
+    background-color: #4a4a4a7e;
+    border-radius: 3px;   
+}
+#fsec4 button {
+    display: block;
+    border-color: #0071CE;
+    width: 100%;
+    padding: 10px;
+    background-color: #0071CE;
+    color: white;
+}
+#fsec4 input {
+    padding: 10px ;
+    border: solid #4a4a4a7e;
+    border-radius: 3px;
+    transition: 0.3s;
+}
+#bottom_bar {
+    background-color: #F18240;
+    margin-top: 20px;
+    height: 50px;
+    width: 100%;
+    vertical-align: middle;
+    text-align: center;
+    font-size: small;
+    color: white;
+}
+#copyrights_text {
+    display: inline-block;
+}
+#t2b_img {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    width: 50px;
+}
+
+/* Student name: D.D.K.S. Dias
+Student ID: IT21220760
+Module: IWT (1st Yr: 2nd Sem: Final Assignment: 2022) */

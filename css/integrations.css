@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+}
+#int_main {
+    height: 500px;
+    background-image: url(../images/int_bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+}
+#int_hero_left {
+    position: relative;
+    float: left;
+    width: 50%;
+    height: 500px;
+}
+
+#int_hero_right {
+    display: inline;
+    position: relative;
+    float: right;
+    width: 50%;
+    height: 500px;
+}
+#int_slideshow {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    max-width: 600px;
+
+}
+.int_slide_wrapper {
+    position: relative;
+}
+.int_slides {
+    width: 100%;
+    display:none;
+    border-radius: 5px;
+}
+.int_slide_ctr {
+    padding: 5px 10px;
+    margin: 0 10px;
+    border: solid #0071CE;
+    border-radius: 3px;
+}
+.int_slide_ctr:hover {
+    background-color:#0071CE ;
+    color: white;
+}
+#display_left {
+    position: absolute;
+    left: 0px;
+    top: 50%;  
+}
+#display_right {
+    position: absolute;
+    right: 0px;
+    top: 50%;
+}
+#int_desc {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 600px;
+    text-align: left;
+    color: white;
+    font-size: medium;
+    margin: 0 20px;
+    line-height: 1.5;
+}
+#int_learn_more {
+    border-radius: 3px;
+    border-color: white;
+    background-color: white;
+    color: black;
+    font-family: Helvetica, sans-serif;
+    padding: 10px 15px;
+}
+.int_button {
+    border-radius: 3px;
+    border-color: black;
+    background-color: black;
+    color: white;
+    
+    font-family: Helvetica, sans-serif;
+    padding: 10px 15px;
+}
+.int_button:hover {
+    background-color: rgba(0, 0, 0, 0);
+    color: black;
+}
+/* .page_middle {
+
+    width:80%;
+    margin: auto;
+    line-height: 1.5;
+    overflow: hidden;
+} */
+.int_container {
+    display: block;
+    margin: 50px 0;
+    padding: 50px 0;
+    overflow: hidden;
+}
+.int_subcontainer {
+    width:80%;
+    margin: auto;
+    line-height: 1.5;
+    overflow: hidden;
+}
+.int_container1, .int_container3 {
+    width:80%;
+    margin: auto;
+    line-height: 1.5;
+    overflow: hidden;
+}
+.container-left {
+    display: inline;
+    float: left;
+    width: 50%;
+}
+.container-right {
+    display: inline;
+    float: right;
+    width: 50%;
+
+}
+.int_img {
+    max-width: 500px;
+    float: right;
+    border: #0071CE solid;
+}
+.image_wrapper {
+    position: relative;
+}
+.int_ico {
+    width: 20px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border: #ff00006e solid;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 50%;
+    transition: 0.3s;
+}
+.int_ico:hover {
+    background-color: #ff00006e;
+}
+.int_container2, .int_container4 {
+    background-color: #F18240;
+    color: white;
+}
+
+/* Student name: D.D.K.S. Dias
+Student ID: IT21220760
+Module: IWT (1st Yr: 2nd Sem: Final Assignment: 2022) */

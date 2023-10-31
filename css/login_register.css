@@ -1,0 +1,149 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Quicksand', sans-serif;
+}
+
+body{
+	height: 100vh;
+	width: 100%;
+}
+
+.container{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px 100px;
+}
+
+fieldset {
+	border-color: #4A4A4A;
+    margin: 1rem 0;
+	position: relative;
+  }
+
+  fieldset > legend {
+	margin-left: 6rem;
+	color: #4A4A4A;
+	padding: 0 1rem;
+	font-size: 1rem;
+	line-height: 1;
+  }
+
+#formTxt {
+    background-color: #4A4A4A;
+	color: #fff;
+    margin: 20px;
+	padding: 20px;
+}
+
+hr {
+    margin: 20px;
+    height: 2.5px;
+    background-color: #4A4A4A;
+}
+
+.li {
+	color: #4A4A4A;
+	margin-left: 20px;
+    list-style-type: none;
+    float: left;
+    text-align: left;
+}
+
+#logok {
+	margin-top: 20px;
+	width: 500px;
+	text-align: center;
+	margin-bottom: 20px;
+
+}
+
+.txt {
+	color: #4A4A4A;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	width: 800px;
+	height: 25px;
+}
+
+.box {
+	color: #4A4A4A;
+	margin-left: 20px;
+}
+
+.btn {
+	width: 375px;
+    margin: 20px;
+	padding: 0.5rem 1rem;
+	background-color: #0071CE;
+	color: #fff;
+	font-size: 1.1rem;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	transition: .3s;
+}
+
+.btn:hover {
+    background-color: #005aa3;
+}
+
+.btnReg {
+	width: 800px;
+    margin: 20px;
+	padding: 0.5rem 1rem;
+	background-color: #0071CE;
+	color: #fff;
+	font-size: 1.1rem;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	transition: .3s;
+}
+
+.btnReg:hover {
+    background-color: #005aa3;
+}
+
+#regP {
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+#fgot {
+	text-decoration: underline;
+	color: #4A4A4A;
+	margin-bottom: 20px;
+}
+
+#fgot:hover {
+	color: #0071CE;
+}
+
+@media screen and (max-width: 880px){
+	.contact-box{
+		grid-template-columns: 1fr;
+	}
+	.left{
+		height: 200px;
+	}
+}
+fieldset {
+	padding: 10px;
+	margin-top: 0;
+}
+
+#copyrights_text {
+    display: inline-block;
+	margin-top: 15px;
+}
+
+/* 	Student name: Thathsara S.M.K. 
+	Student ID: IT21219566 
+	Module: IWT (1st Yr: 2nd Sem: Final Assignment: 2022) */

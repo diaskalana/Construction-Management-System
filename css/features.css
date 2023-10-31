@@ -1,0 +1,114 @@
+.fe_main {
+    height: 500px;
+    background-image: url(../images/fe_bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    font-size: 15px;
+}
+.fe_intro {
+    padding: 0 300px;
+}
+.fe_main h1{
+    margin-top: 160px;
+    font-size: 70px;
+    margin-bottom: 0;
+}
+.fe_button {
+    padding: 10px 15px;
+    display: inline;
+    border-radius: 3px;
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+    border: 3px #F18240 solid;
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.fe_button:hover {
+    background-color: #F18240;
+}
+.fe_sd {
+    position: relative;
+    padding: 200px 0;
+    margin-top: 0px;
+}
+/* Shape devider properties, generated using:https://www.shapedivider.app/ */
+.custom-shape-divider-top-1653078005 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1653078005 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-top-1653078005 .shape-fill {
+    fill: #FFF;
+}
+
+.custom-shape-divider-bottom-1653078696 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1653078696 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 160px;
+}
+
+.custom-shape-divider-bottom-1653078696 .shape-fill {
+    fill: #FFFFFF;
+}
+/* Shape devider properties */
+.container_desc {
+    padding:0 100px;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 50px;
+}
+.container_desc p {
+    text-align: justify;
+}
+.fe_img {
+    width: 50px;
+    padding: 15px;
+    border: #F18240 solid;
+    background-color: #F18240;
+    border-radius: 5px;
+    margin-top: -50px;
+}
+.container_desc fieldset {
+    border: #F18240 solid 5px;
+    border-radius: 10px;
+}
+.int_subcontainer .container_desc fieldset {
+    border: white solid 5px;
+    border-radius: 10px;
+}
+.int_subcontainer .container_desc .fe_img {
+    border: white solid;
+    background-color: white;
+}
+
+/* Student name: D.D.K.S. Dias
+Student ID: IT21220760
+Module: IWT (1st Yr: 2nd Sem: Final Assignment: 2022) */
